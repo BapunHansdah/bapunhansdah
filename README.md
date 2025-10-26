@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Bapun Hansdah
 
-🚀 **Full Stack Developer & Technical Leader** with 3+ years of experience building **scalable SaaS platforms**, **browser automation tools**, and **AI-integrated applications**. I specialize in **React.js**, **Next.js**, and **Node.js**, with a strong focus on **performance optimization**, **AI/LLM integrations**, and **real-time systems**.
+🚀 I'm a **Full Stack Developer** with **3+ years of experience** in fast-paced startup environments, working across **Web Development**, **Automation**, and **AI-driven solutions**.  
+I focus on building **scalable applications**, **streamlining workflows**, and delivering **end-to-end impactful products**.
 
 ---
 

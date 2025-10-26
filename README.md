@@ -7,8 +7,7 @@
 ## 🧠 About Me
 
 - 💡 CTO & Software Engineer at [Unifill AI](https://unifillai.com) — building generative AI-powered browser automation tools.  
-- 🐶 Previously at [DogSwag](https://barkybrews.com) — developed real-time chat, gamified systems, and appointment platforms.  
-- 🧩 Freelanced for [Interview Insider](https://interviewinsider.in) & [Stravion Capital](https://www.stravioncapital.com) — delivered portals, CRMs, and chatbots.  
+- 🐶 Previously at [DogSwag](https://barkybrews.com) — developed real-time chat, gamified systems, and appointment platforms.   
 - ⚡ Passionate about **AI-powered products**, **LLM-based automation**, and **performance-driven web apps**.
 
 ---

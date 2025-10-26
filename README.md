@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Bapun Hansdah
 
-🚀 I'm a **Full Stack Developer** with **3+ years of experience** in fast-paced startup environments, working across **Web Development**, **Automation**, and **AI-driven solutions**.  
-I focus on building **scalable applications**, **streamlining workflows**, and delivering **end-to-end impactful products**.
+🚀 I'm a **Full Stack Developer** with **3+ years of experience** in fast-paced startup environments, working across **Web Development**, **Automation**, and **AI-driven solutions**.
 
 ---
 

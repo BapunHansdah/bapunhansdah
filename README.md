@@ -47,7 +47,7 @@ Automates influencer discovery using Instagram APIs and React.
 
 ## 🏆 Achievements
 
-- 🥇 Ranked **Top 10** in Next Level’s Feb 2023 Coding Challenge  
+- 🥇 Ranked **Top 10** in Next Level’s Feb 2023 Coding Challenge by Unacademy  
 - 💬 Built multiple Chrome extensions published on the Web Store  
 - ⚙️ Led agile teams delivering 100% roadmap features at Unifill AI  
 

@@ -4,7 +4,7 @@
 
 In the early days, I was exploring all kinds of creative and technical stuff - design, video editing, animation, motion graphics, and coding. Then I got into Linux and became fascinated by the world of programming (and all those cool terminal visuals).
 
-I later got into mobile app hacking and reverse engineering. Around that time, I discovered a data-entry job scam. I cracked their app, made their “scam tasks” easier, and uploaded a free version of their app on YouTube .. it reached almost **50k views** before I started receiving strikes and stopped uploading.
+I later got into mobile app hacking and reverse engineering. Around that time, I discovered a data-entry job scam. I cracked their app, made their “scam tasks” easier, and uploaded a free version of their app on YouTube .. it reached almost **50k views** before I started receiving strikes and stopped uploading. Here is **[Deleted Video]([https://barkybrews.com/](https://drive.google.com/file/d/1XYVmJOnXFykh847285-yoP3DozHHq97n/view?usp=sharing))**
 
 After that, I helped students crack online coding exams and sold solutions through Telegram and Discord. Through this network, someone offered me a developer role, and I landed my first job at a small startup called **[Dogswag](https://barkybrews.com/)** , the first time I started making real money.
 

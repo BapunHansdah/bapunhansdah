@@ -11,7 +11,7 @@ After that, I helped students crack online coding exams (like Relevel by Unacade
 After 8 months, I switched to another company as a developer with better pay. Six months later, the founder asked me to become a co-founder, and we started building **[UnifillAI](https://unifillai.com)**, a browser automation tool powered by AI.
 After a year of building, I realized it wasn't going anywhere (too many edge-case complexities), so I dropped the plan and moved on to exploring other areas like web development services, AI automations, and chatbots for new startups.
 
-I’ve also built some cool side projects, like **[Exclaimotion](https://excalimotion.com)**, an animated version of Excalidraw.
+I’ve also built some cool side projects, like **[Excalimotion](https://excalimotion.com)**, an animated version of Excalidraw.
 I also forked the popular **[PptxGenJS](https://gitbrent.github.io/PptxGenJS/)** repo and added animation features to it (currently under review).
 
 ---

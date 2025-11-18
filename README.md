@@ -6,7 +6,7 @@ In the early days, I was exploring all kinds of creative and technical stuff - d
 
 I later got into mobile app hacking and reverse engineering. Around that time, I discovered a data-entry job scam. I cracked their app, made their “scam tasks” easier, and uploaded a free version of their app on YouTube .. it reached almost **50k views** before I started receiving strikes and stopped uploading. Here is gooogle drive link to **[Deleted Video](https://drive.google.com/file/d/1XYVmJOnXFykh847285-yoP3DozHHq97n/view?usp=sharing)**
 
-After that, I helped students crack online coding exams and sold solutions through Telegram and Discord. Through this network, someone offered me a developer role, and I landed my first job at a small startup called **[Dogswag](https://barkybrews.com/)** , the first time I started making real money.
+After that, I helped students crack online coding exams and sold solutions through Telegram and **[Discord](https://discord.gg/7JHs4CGcTA)**. Through this network, someone offered me a developer role, and I landed my first job at a small startup called **[Dogswag](https://barkybrews.com/)** , the first time I started making real money.
 
 After 8 months, I switched to another company as a developer with better pay. Six months later, the founder asked me to become a co-founder, and we started building **[UnifillAI](https://unifillai.com)**, a browser automation tool powered by AI.
 After a year of building, I realized it wasn't going anywhere (too many edge-case complexities), so I dropped the plan and moved on to exploring other areas like web development services, AI automations, and chatbots for new startups.

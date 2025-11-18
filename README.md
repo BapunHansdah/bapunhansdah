@@ -1,14 +1,18 @@
-# 👋 Hey, I'm Bapun Hansdah
+# 👋 Hi, I’m Bapun Hansdah
 
-🚀 I'm a **Full Stack Developer** with **3+ years of experience** in fast-paced startup environments, working across **Web Development**, **Automation**, and **AI-driven solutions**.
+*Yeah, weird name hehe.*
 
----
+In the early days, I was exploring all kinds of creative and technical stuff — design, video editing, animation, motion graphics, and coding. Then I got into Linux and became fascinated by the world of programming (and all those cool terminal visuals).
 
-## 🧠 About Me
+I later got into mobile app hacking and reverse engineering. Around that time, I discovered a data-entry job scam. I cracked their app, made their “scam tasks” easier, and uploaded a free version of their app on YouTube — it reached almost **50k views** before I started receiving strikes and stopped uploading.
 
-- 💡 CTO & Software Engineer at [Unifill AI](https://unifillai.com) — building generative AI-powered browser automation tools.  
-- 🐶 Previously at [DogSwag](https://barkybrews.com) — developed real-time chat, gamified systems, and appointment platforms.   
-- ⚡ Passionate about **AI-powered products**, **LLM-based automation**, and **performance-driven web apps**.
+After that, I helped students crack online coding exams (like Relevel by Unacademy and other platforms) and sold solutions through Telegram and Discord. Through this network, someone offered me a developer role, and I landed my first job at a small startup called **[Dogswag](https://dogswag.com)** — the first time I started making real money.
+
+After 8 months, I switched to another company as a developer with better pay. Six months later, the founder asked me to become a co-founder, and we started building **[UnifillAI](https://unifillai.com)** — a browser automation tool powered by AI.
+After a year of building, I realized it wasn't going anywhere (too many edge-case complexities), so I dropped the plan and moved on to exploring other areas like web development services, AI automations, and chatbots for new startups.
+
+I’ve also built some cool side projects, like **[Exclaimotion](https://excalimotion.com)**, an animated version of Excalidraw.
+I also forked the popular **[PptxGenJS](https://gitbrent.github.io/PptxGenJS/)** repo and added animation features to it (currently under review).
 
 ---
 
